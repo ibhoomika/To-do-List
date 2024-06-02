@@ -1,4 +1,4 @@
-Feature List (From Lecture)
+Feature List 
 
   Login (Get username and print)
 Once user enters the username, the form should disappear. Display the greeting message.
